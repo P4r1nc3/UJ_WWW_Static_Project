@@ -1,0 +1,7 @@
+{
+  "name": "UJ_WWW_Project",
+  "version": "1.0.0",
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  }
+}
